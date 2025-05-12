@@ -1,4 +1,5 @@
 📁 File Sorter Script
+
 This Python script helps you automatically organize files in a folder by moving them into subfolders based on file types (e.g., Images, Documents, Videos, etc.).
 
 🧾 Files Included
